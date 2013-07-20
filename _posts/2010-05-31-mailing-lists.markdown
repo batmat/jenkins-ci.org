@@ -34,12 +34,34 @@ All of Jenkins' mailing lists are now hosted on [Google Groups](http://groups.go
 &nbsp;|&nbsp;<a href="mailto:jenkinsci-ja+unsubscribe@googlegroups.com">unsubscribe</a></td> 
 </tr>
 <tr> 
-<td><strong>hudson.infra@librelist.com</strong></td> 
+<td><strong>jenkinsci-br@googlegroups.com</strong></td> 
+<td>Jenkins grupo de usuários em Português do Brasil</td> 
+<td><a href="http://groups.google.com/group/jenkinsci-br/topics">archive</a>
+&nbsp;|&nbsp;<a href="mailto:jenkinsci-br+subscribe@googlegroups.com">subscribe</a>
+&nbsp;|&nbsp;<a href="mailto:jenkinsci-br+unsubscribe@googlegroups.com">unsubscribe</a></td> 
+</tr>
+<tr> 
+<td><strong>jenkinsci-kr@googlegroups.com</strong></td> 
+<td>Jenkins users list in Korean</td> 
+<td><a href="http://groups.google.com/group/jenkinsci-kr/topics">archive</a>
+&nbsp;|&nbsp;<a href="mailto:jenkinsci-kr+subscribe@googlegroups.com">subscribe</a>
+&nbsp;|&nbsp;<a href="mailto:jenkinsci-kr+unsubscribe@googlegroups.com">unsubscribe</a></td> 
+</tr>
+<tr> 
+<td><strong>infra@lists.jenkins-ci.org</strong></td> 
 <td>Jenkins community operations and infrastructure</td> 
-<td><a href="http://librelist.com/browser/hudson.infra">archive</a>
-&nbsp;|&nbsp;<a href="http://librelist.com/">subscribe</a>
-&nbsp;|&nbsp;<a href="mailto:hudson.infra-unsubscribe@librelist.com">unsubscribe</a></td> 
-</tr></table> 
+<td><a href="http://lists.jenkins-ci.org/pipermail/jenkins-infra/">archive</a>
+&nbsp;|&nbsp;<a href="http://lists.jenkins-ci.org/mailman/listinfo/jenkins-infra">subscribe</a>
+&nbsp;|&nbsp;<a href="http://lists.jenkins-ci.org/mailman/listinfo/jenkins-infra">unsubscribe</a></td> 
+</tr>
+<tr> 
+<td><strong>events@lists.jenkins-ci.org</strong></td> 
+<td>Events, meet-ups, and fostering local communities</td> 
+<td><a href="http://lists.jenkins-ci.org/pipermail/jenkins-events/">archive</a>
+&nbsp;|&nbsp;<a href="http://lists.jenkins-ci.org/mailman/listinfo/jenkins-events">subscribe</a>
+&nbsp;|&nbsp;<a href="http://lists.jenkins-ci.org/mailman/listinfo/jenkins-events">unsubscribe</a></td> 
+</tr>
+</table> 
 
 
 ### Read-only Lists
@@ -64,4 +86,3 @@ All of Jenkins' mailing lists are now hosted on [Google Groups](http://groups.go
 &nbsp;|&nbsp;<a href="mailto:jenkinsci-commits+subscribe@googlegroups.com">subscribe</a>
 &nbsp;|&nbsp;<a href="mailto:jenkinsci-commits+unsubscribe@googlegroups.com">unsubscribe</a></td> 
 </tr></table>
-

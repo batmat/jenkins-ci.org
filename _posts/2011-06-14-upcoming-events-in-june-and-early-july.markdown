@@ -4,13 +4,13 @@ title: Upcoming Events in June and early July
 nodeid: 319
 created: 1308098168
 tags:
-- meta
-- core
-- meetup
-- news
 - general
-- jenkinsci
+- core
 - just for fun
+- meetup
+- meta
+- news
+- jenkinsci
 ---
 I've just added three events coming up in the next few weeks to [the Jenkins calendar](http://jenkins-ci.org/calendar). Conveniently, they are all events I'll be attending while traveling around Western Europe!
 
